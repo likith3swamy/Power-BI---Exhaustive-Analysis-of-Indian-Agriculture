@@ -4,4 +4,4 @@ repository for my project based internship
 ![Week1.gif](https://github.com/likith3swamy/Power-BI---Exhaustive-Analysis-of-Indian-Agriculture/blob/main/Results/Week1.gif)
 
 <h1>Week2</h1>
-![Week2 Results](tree/main/Results/Week2.png)
+![Week2.gpng](https://github.com/likith3swamy/Power-BI---Exhaustive-Analysis-of-Indian-Agriculture/blob/main/Results/Week2.png)
